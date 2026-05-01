@@ -1,51 +1,51 @@
-<h1 align="center">Hi 👋, I'm Tushitaa Narayan Ojha</h1>
-<h3 align="center">AI | ML Researcher • B.Tech IT & Mathematics </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;AI+Researcher;BERT+%7C+NLP+%7C+Data+Science;GATE+2026+Focused&center=true&width=500&height=50">
-</p>
-
----
-
 ### 🚀 About Me
-- 🎓 B.Tech @ Cluster Innovation Centre, University of Delhi  
-- 🧠 Working on **ML-based Healthcare & NLP Research**
-- 📊 Built models using **BERT, TF-IDF, Word2Vec, Ensembles**
-- 🧪 Research: *Gallstone Prediction + Disaster Tweet Classification*
-- 🎯 Currently preparing for **GATE CS & AI**
-- 💡 Interested in **AI for Healthcare & Real-world Impact**
+
+Hi, I'm **Tushitaa Narayan Ojha** — an AI & Machine Learning enthusiast pursuing a **B.Tech in Information Technology & Mathematics** at Cluster Innovation Centre, University of Delhi.
+
+I am passionate about building **data-driven intelligent systems** with a strong focus on **real-world applications**, especially in **healthcare and natural language processing**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sklearn,pytorch,tensorflow,mysql,git,linux" />
-</p>
+- 🤖 Work on **Machine Learning & Deep Learning models**
+- 🧪 Explore **AI in Healthcare** using clinical and bioimpedance data  
+- 💬 Build **NLP systems** using BERT, Word2Vec, and TF-IDF  
+- ⚙️ Experiment with **model optimization & ensemble techniques**  
 
 ---
 
-### 📌 Featured Projects
+### 🧪 Projects
 
 - 🧠 **Gallstone Prediction System**  
-  ML-based healthcare model using clinical + bioimpedance data  
+  ML-based risk prediction using clinical + body composition data  
 
-- 🌪️ **Disaster Tweet Classification Framework**  
-  Hierarchical classification using TF-IDF, Word2Vec & BERT  
+- 🌪️ **Disaster Tweet Classification**  
+  NLP pipeline using TF-IDF, Word2Vec & Transformer models  
 
 - 🤖 **BERTweet NLP Pipeline**  
   Transformer-based tweet classification with attention mechanisms  
 
 ---
 
-### 📫 Connect with Me
+### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+`Python` `C++` `Java`  
+`Scikit-learn` `PyTorch` `TensorFlow`  
+`BERT` `Word2Vec` `TF-IDF`  
+`MySQL` `Git` `Linux`
+
+---
+
+### 💡 Interests
+
+- AI for Healthcare  
+- Natural Language Processing  
+- Applied Machine Learning  
+- Research & Innovation  
 
 ---
 
 ### ⚡ Fun Fact
-I love mountains 🌄 and late evenings 🌆 — best time to think and build ideas.
+
+I love **mountains 🌄** and **late evenings 🌆** — that’s when I get my best ideas.
